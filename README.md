@@ -1,6 +1,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDA761&width=435&lines=Hi%2C+I'm+Minh+Vo+%3D)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC333&width=435&lines=Hi%2C+I'm+Minh+Vo+%3D)" alt="Typing SVG" /></a>
 
 A full-stack developer / AI Engineer from Vietnam.
 
