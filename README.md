@@ -9,15 +9,15 @@ A full-stack developer / AI Engineer from Vietnam, pursuing Master of AI at Mona
 - 👨‍💻 Working on Enhancing Chain-of-thought of LLM using Bayesian Network.
 
 ## Skills
-- 👨‍💻 Python, TypeScript, JavaScript,...
-- ⚙️ Numpy, Pandas, PyTorch, React, React Native
+- 👨‍💻 Python, TypeScript, JavaScript
+- ⚙️ Numpy, Pandas, PyTorch, React
 - 👁️ SASS, CSS, Tailwind
 - 💽 MySQL, SQL, Mongo
-+ a lot more :D
 
+<!--
 ## Side hustle
 - Contributing to open-sourced Quantum transformer for High Energy Physics Analysis at the LHC at [Machine Learning for Science](https://ml4sci.org/gsoc/2025/proposal_QMLHEP5.html)
-
+-->
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/minhvoio/)
 - [Email](mailto:minhvo.business@gmail.com)
