@@ -11,10 +11,10 @@ A full-stack developer / AI Engineer from Vietnam.
 
 - 🏃‍♂️ Pursuing Master of AI at Monash University, Melbourne, Australia.
 
-## Skills
+## Core
 - 👨‍💻 Python, TypeScript, JavaScript
 - ⚙️ Numpy, Pandas, PyTorch, React
-- 👁️ SASS, CSS, Tailwind
+- 👁️ Tailwind, SASS, CSS, 
 - 💽 MySQL, SQL, Mongo
 
 <!--
@@ -29,6 +29,8 @@ A full-stack developer / AI Engineer from Vietnam.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Tech
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
