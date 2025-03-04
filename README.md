@@ -1,7 +1,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%2314261E&borderColor=%23238636&aColor=%2326de81&qColor=%23EDBC51)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EDBC51&width=435&lines=Hi%2C+I'm+Minh+Vo;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EDBC51&width=435&lines=Hi%2C+I'm+Minh+Vo+%3AD;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 A full-stack developer / AI Engineer from Vietnam.
 
