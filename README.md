@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EDBC51&width=435&lines=Hi%2C+I'm+Minh+Vo+%3AD;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
-A full-stack developer / AI Engineer from Vietnam.
+### A full-stack developer / AI Engineer from Vietnam.
 
 - 🐝 Lead Research Assistant for Prof. Ann Nicholson (Dean of Faculty of IT) at [Monash University](https://www.monash.edu/)
 
