@@ -6,7 +6,7 @@
 
 - 🐝 Lead Research Assistant for Prof. Ann Nicholson (Dean of Faculty of IT) at [Monash University](https://www.monash.edu/)
 
-- 👨‍💻 Working on Enhancing Chain-of-thought of LLM using Bayesian Network.
+- 👨‍💻 Working on Enhancing Chain-of-thought of Large Language Model using Bayesian Network.
 
 - 🏃‍♂️ Pursuing Master of AI at Monash University, Melbourne, Australia.
 
