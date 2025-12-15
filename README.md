@@ -2,13 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=EDBC51&width=435&lines=Hi%2C+I'm+Minh+Vo+%3AD;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 
-### An AI Engineer / full-stack developer from Australia.
+### A Lead Agentic AI Engineer from Australia.
 
 - 🐝 Lead Research Assistant for Prof. Ann Nicholson (Dean of Faculty of IT) at [Monash University](https://www.monash.edu/)
 
 - 👨‍💻 Working on Enhancing Chain-of-thought of Large Language Model using Bayesian Network.
 
-- 🏃‍♂️ Pursuing Master of AI at Monash University, Melbourne, Australia.
+- 🏃‍♂️ Completed Master of AI at Monash University, Melbourne, Australia.
 
 ## Core
 - 👨‍💻 Python, TypeScript, JavaScript
